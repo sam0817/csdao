@@ -1,0 +1,12 @@
+.idea
+
+*.sln
+*.csproj
+AssemblyInfo.cs
+
+bin/
+obj/
+packages/
+ConsoleApplication/Properties/
+Test/Properties/
+Test/packages.config
