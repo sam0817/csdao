@@ -1,0 +1,36 @@
+測試環境
+  遮罩方式
+
+
+系統架構
+
+WPF MVVM
+  UI Validation
+
+SERVER : RESTFul API
+DB: ORM 
+
+NUnit 
+SpecFlow
+cucumber
+
+業務架構
+
+
+//Reference
+Prism
+https://github.com/PrismLibrary/Prism
+Caliburn.Micro
+https://github.com/Caliburn-Micro/Caliburn.Micro
+MVVMCross
+https://www.mvvmcross.com/
+ReactiveUI 
+https://www.reactiveui.net/
+Catel
+http://catelproject.com/
+
+
+Nancy
+https://github.com/NancyFx/Nancy
+ASP.NET Web API
+https://www.asp.net/web-api
